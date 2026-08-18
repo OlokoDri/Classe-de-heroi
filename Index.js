@@ -28,7 +28,9 @@ class Heroi {
 const Ainz = new Heroi("Ainz", 1000, "mago")
 const Kirito = new Heroi("Kirito", 21, "guerreiro")
 const DrStone = new Heroi("Dr. Stone", 18, "monge")
+const Naruto = new Heroi("Naruto", 16, "ninja")
 
 Ainz.atacar()
 Kirito.atacar()
 DrStone.atacar()
+Naruto.atacar()
